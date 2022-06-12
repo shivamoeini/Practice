@@ -2,12 +2,12 @@ const  initialState={
     products:[]
 }
 export const productReducer=(state,action)=>{
-switch (key) {
-    case value:
+// switch (key) {
+//     case value:
         
-        break;
+//         break;
 
-    default:
-        break;
-}
+//     default:
+//         break;
+// }
 }
